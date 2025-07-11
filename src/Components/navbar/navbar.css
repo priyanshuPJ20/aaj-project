@@ -1,0 +1,12 @@
+nav 
+{
+    background-color: peru;
+    color: white;
+    padding: 15px 0;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: center;
+}
